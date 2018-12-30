@@ -1,5 +1,4 @@
-# Chess-Game-With-GUI-
-# Connected-To-Real-Board
+# Chess Game With GUI
 Chess game written in c++ and serially communicate the moves with an arduino circuit that controls a real chess board.
 
 # The Documentation 
